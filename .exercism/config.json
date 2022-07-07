@@ -1,0 +1,19 @@
+{
+  "blurb": "Given a DNA string, compute how many times each nucleotide occurs in the string.",
+  "authors": [
+    "rpottsoh"
+  ],
+  "files": {
+    "solution": [
+      "uNucleotideCount.pas"
+    ],
+    "test": [
+      "uNucleotideCountTests.pas"
+    ],
+    "example": [
+      ".meta/uNucleotideCountExample.pas"
+    ]
+  },
+  "source": "The Calculating DNA Nucleotides_problem at Rosalind",
+  "source_url": "http://rosalind.info/problems/dna/"
+}
